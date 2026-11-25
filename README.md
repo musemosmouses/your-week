@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
+[![Rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/musemosmouses/your-week/rank.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
+[![Reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/musemosmouses/your-week/reward.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
+
 # Your Week in One Line
 
 Entry for the make.fun bounty `u-boge-your-week-in-one-line-d1c14ced`
